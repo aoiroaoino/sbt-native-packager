@@ -51,7 +51,7 @@ Add the following to your `project/plugins.sbt` file:
 
 ```scala
 // for autoplugins
-addSbtPlugin("com.typesafe.sbt" % "sbt-native-packager" % "1.1.0-RC1")
+addSbtPlugin("com.typesafe.sbt" % "sbt-native-packager" % "1.1.0-RC2")
 ```
 
 In your `build.sbt` enable the plugin you want. For example the
